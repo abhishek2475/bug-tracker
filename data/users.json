@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": 1,
+    "name": "Abhishek Developer",
+    "email": "dev@example.com",
+    "password": "password123",
+    "role": "Developer"
+  },
+  {
+    "id": 2,
+    "name": "Abhishek Manager",
+    "email": "manager@example.com",
+    "password": "password123",
+    "role": "Manager"
+  }
+]

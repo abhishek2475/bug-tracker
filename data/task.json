@@ -1,0 +1,55 @@
+
+[
+  {
+    "id": "TSK-001",
+    "title": "Fix login button styling on mobile",
+    "description": "The login button is misaligned on screens smaller than 480px.",
+    "priority": "High",
+    "status": "In Progress",
+    "assigneeId": 1,
+    "createdAt": "2023-10-26T10:00:00Z",
+    "updatedAt": "2023-10-27T14:30:00Z",
+    "closedAt": "2023-10-02T11:00:00Z"
+  },
+  {
+    "id": "TSK-002",
+    "title": "Implement new dashboard chart",
+    "description": "Add the trend line chart for concurrent tasks to the main dashboard view.",
+    "priority": "High",
+    "status": "To Do",
+    "assigneeId": 1,
+    "createdAt": "2023-10-28T09:00:00Z",
+    "updatedAt": "2023-10-28T09:00:00Z"
+  },
+  {
+    "id": "TSK-003",
+    "title": "API endpoint for user profiles is slow",
+    "description": "The /api/users/:id endpoint is taking over 2 seconds to respond.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "assigneeId": null,
+    "createdAt": "2023-10-25T11:00:00Z",
+    "updatedAt": "2023-10-26T16:45:00Z"
+  },
+  {
+    "id": "TSK-004",
+    "title": "Update footer copyright year",
+    "description": "The copyright year in the footer is outdated and needs to be updated to the current year.",
+    "priority": "Low",
+    "status": "Closed",
+    "assigneeId": 1,
+    "createdAt": "2023-10-01T10:00:00Z",
+    "updatedAt": "2023-10-02T11:00:00Z",
+    "closedAt": "2023-10-02T11:00:00Z"
+  },
+  {
+    "id": "TSK-005",
+    "title": "Verify user email on signup",
+    "description": "The user successfully signs up but their account should be in a pending state until they verify their email address.",
+    "priority": "Medium",
+    "status": "Pending Approval",
+    "assigneeId": 1,
+    "createdAt": "2023-10-29T15:00:00Z",
+    "updatedAt": "2023-10-30T10:20:00Z"
+  }
+]
