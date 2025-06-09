@@ -2,8 +2,9 @@
 
 
 **BugTracker Pro** is a sleek, modern, and intuitive web application designed to help development teams manage tasks, track bugs, and monitor project progress with ease. Built with a modern tech stack including Next.js, React, and Tailwind CSS, this application focuses on providing a clean user interface and a seamless user experience.
+<img src="https://drive.google.com/file/d/1XpEutq94MmM5HMwfiZ7xa3L3DL_0Bgz4/view?usp=sharing" alt="Dashboard Image">
 
-**[Live Demo Link](https://your-vercel-or-netlify-link.com)** 
+**[Live Demo Link](https://bug-tracker-nine-beta.vercel.app/)** 
 
 ---
 
